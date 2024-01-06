@@ -1,6 +1,8 @@
 import '../index.css';
 
 const Home = () => {
+
+  const myStyle = {color: '#ffffff'};
   return (
     <div>
 
@@ -17,7 +19,7 @@ const Home = () => {
           </div>
           <button id="location-btn">
             <span>ubicación</span>
-            <i className="fa-solid fa-caret-down" style="color: #ffffff;"></i>
+            <i className="fa-solid fa-caret-down" style={myStyle}></i>
           </button>
         </form>
         <section id="welcome-likes">

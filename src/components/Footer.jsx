@@ -1,4 +1,6 @@
 const Footer = () => {
+
+  const myStyle = { color: 'orange' };
     return (
       <div>
     <footer>
@@ -33,7 +35,7 @@ const Footer = () => {
           <form id="second-form" action="">
             <div id="second-form-input-wrapper">
               <input id="second-form-input" type="text" placeholder="Email Address" aria-label="input" />
-              <i id="send-search" className="fa-solid fa-paper-plane" style="color: orange;"></i>
+              <i id="send-search" className="fa-solid fa-paper-plane" style={myStyle}></i>
             </div>
           </form>
         </div>
