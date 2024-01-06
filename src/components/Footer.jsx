@@ -6,8 +6,8 @@ const Footer = () => {
     <footer>
       <div className="footer1-wrapper">
         <div id="footer-logo-w-text" className="footer-section">
-          <img src="./assets/images/Divi-Cuisine-Logo.png" alt="Restaurant Logo" className="footer-logo" />
-          <p>Just like a perfectly baked pastry, we created Cuisine with special love and it shows</p>
+          <img src="./image/logo.jpg" alt="Restaurant Logo" className="footer-logo" />
+          <p>Comida </p>
         </div>
         <div className="footer-section">
           <h1 className="heading">Open Hours</h1>

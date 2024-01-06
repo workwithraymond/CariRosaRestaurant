@@ -1145,6 +1145,12 @@ footer {
     margin-bottom: 1em;
 }
 
+.nav-logo {
+  width: 100px;
+  height: auto;
+  margin-bottom: 1em;
+}
+
 ul {
   list-style: none;
   padding: 0;
