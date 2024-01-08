@@ -1,8 +1,9 @@
 import React from 'react';
+
+import Menu from './components/NewMenu'
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
-import Menu from './components/Menu';
 import ContactPage from './components/ContactPage';
 import Reviews from './components/Reviews';
 import Footer from './components/Footer';

@@ -1,10 +1,9 @@
 import React from 'react'
 
-const Menus = ({items}) => {
+const Menus = ({id, title, img, desc, price}) => {
   return (
     <div className='section-center'>
-        {items.map((item) => {
-            const {id, title, img, desc, price} = item;
+        
             return(
                 <article key={id} className='menu-item' >
                    <img src={img} alt={title} className='photo' />  
@@ -17,7 +16,7 @@ const Menus = ({items}) => {
                     </div>   
                 </article>
             )
-        })}
+        
         </div>
   )
 }
