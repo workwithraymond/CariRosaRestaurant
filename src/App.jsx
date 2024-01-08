@@ -3,7 +3,6 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
 import Menu from './components/Menu';
-import MainMenu from './components/MainMenu';
 import ContactPage from './components/ContactPage';
 import Reviews from './components/Reviews';
 import Footer from './components/Footer';
@@ -19,7 +18,6 @@ function App() {
       <Home/>
       <About/>
       <Menu/>
-      <MainMenu/>
       <ContactPage/>
       <Reviews/>
       <Footer/>
