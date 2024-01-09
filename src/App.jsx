@@ -1,6 +1,5 @@
 import React from 'react';
-
-import Menu from './components/NewMenu'
+import MainMenu from './components/MainMenu';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
@@ -18,7 +17,7 @@ function App() {
       <Navbar/>
       <Home/>
       <About/>
-      <Menu/>
+      <MainMenu/>
       <ContactPage/>
       <Reviews/>
       <Footer/>
