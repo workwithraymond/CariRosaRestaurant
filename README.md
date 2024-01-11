@@ -13,3 +13,5 @@ https://github.com/facebook/react/issues/22656
 --Working on the menu button clicks functionality.
 
 --Need to find the code to look at to figure out how to make the new changes.
+
+--Might have to delete this branch and create a new one.
