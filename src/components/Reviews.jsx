@@ -26,7 +26,7 @@ export default function Reviews() {
       name: "Raymond Del Rosario",
       jobTitle: "Profesor",
       stars: 4,
-      review: "La comida es muy buena y saben atender bien a los clientes"
+      review: "La comida es muy buena y saben atender bien a los clientes.  Uno de los mejores restaurante"
     },
     // Add more reviews here as needed
   ];
