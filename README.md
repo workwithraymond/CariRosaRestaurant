@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 Ran into a bug which required alot of research and followed this : 
 https://github.com/facebook/react/issues/22656  
 
---Working on the menu button clicks functionality.
+
+# Fixes to add the functionality of Menu tab to select based on categories
+
+-- Fix duplicate Menu component (Menu.jsx and MenuItems.jsx)

@@ -65,9 +65,11 @@ p {
 }
 
 .btn-container {
-  margin-bottom: 4rem;
+  margin: 2rem 0 4rem 0;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 .filter-btn {
@@ -88,14 +90,7 @@ p {
   border-bottom: 2px solid;
 }
 
-.section-center {
-  width: 90vw;
-  margin: 0 auto;
-  max-width: 1170px;
-  display: grid;
-  gap: 3rem 2rem;
-  justify-items: center;
-}
+
 
 .menu-item {
   display: grid;
