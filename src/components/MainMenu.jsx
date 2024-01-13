@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 
 const MainMenu = () => {
 
@@ -13,12 +13,11 @@ const MainMenu = () => {
         <h1 className="heading">Nuestra Cocina De Especialidad</h1>
         <nav id="section3-nav">
           <ul id="section3-ul">
-            <li >Desayuno</li>
-            <li className="active">
-              <a href='#lunch'>Lunch</a></li>
-            <li>Dinner</li>
-            <li>Breakfast</li>
-            <li>Dessert</li>
+            <li ><Link to="/desayuno">Desayuno</Link></li>
+            <li ><Link to="/lunch">Lunch</Link></li>
+            <li ><Link to="/dinner">Dinner</Link></li>
+            <li ><Link to="/breakfast">Breakfast</Link></li>
+            <li ><Link to="/dessert">Dessert</Link></li>
           </ul>
         </nav>
         <section id="section3-image-carousel" >
