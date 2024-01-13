@@ -12,10 +12,10 @@ const About = () => {
             Restaurant Story
           </h1>
           <p>
-            Cuisine is a team work of Cuisine Restaurant Cafe, we aim at promoting the foodstuff industry through the branches, we establish and through the new dishes, and integrate between different cultures. Nullam quis ante. Etiam.set amet orci eget eros faucibus tincidunt. Duis leo. Sed fringillo mauris sit amet nibh. Donea sodales sagittis magna. aenean commodo ligula. Sed fringillo mauris sit amet nibh. Donec sodales saggittis magna. Aenean commodo ligula.
+          Our mission is to transport our guests to the island of hospitality and share the culinary richness of the Dominican Republic. We take pride in offering authentic dishes prepared with fresh, high-quality ingredients.
           </p>
           <p>
-            Nullam quis ante. Etiam sit amet arci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodiales sagittis magna. Aenean commodo ligula
+          We are committed to providing friendly and welcoming service in a vibrant and energetic atmosphere. We strive to exceed our customers' expectations on every visit by offering an authentic and memorable experience of Dominican cuisine and culture. Our restaurant is a place where the joy of life, food, and friendship is celebrated.
           </p>
           <a href="#section3" id="section3-btn-link">
             <button type="button" id="discover-menu-btn">
