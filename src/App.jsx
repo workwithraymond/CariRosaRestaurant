@@ -2,7 +2,6 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About';
-import Menu from './components/Menu';
 import MainMenu from './components/MainMenu';
 import ContactPage from './components/ContactPage';
 import Reviews from './components/Reviews';
@@ -18,7 +17,6 @@ function App() {
       <Navbar/>
       <Home/>
       <About/>
-      <Menu/>
       <MainMenu/>
       <ContactPage/>
       <Reviews/>
