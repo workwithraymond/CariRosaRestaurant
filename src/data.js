@@ -1,7 +1,8 @@
 export const pageLinks = [
     { id:1, href: '/', text: 'Home' },
-    { id:2, href: '#section2', text: 'About' },
-    { id:3, href: '#section3', text: 'Menu' },
+    { id:2, href: '/', text: 'About' },
+    { id:2, href: '/main', text: 'MainMenu' },
+    { id:3, href: 'mainmenu', text: 'Menu' },
     { id:4, href: '#section4', text: 'Order Now' },
 
 ];
