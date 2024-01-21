@@ -32,7 +32,7 @@ export const reviewsData = [
   // Add more reviews here as needed
 ];
 
-const menu = [
+export const menu = [
     {
       id: 1,
       title: 'buttermilk pancakes',
