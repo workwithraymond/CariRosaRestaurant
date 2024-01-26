@@ -8,6 +8,7 @@ import image7 from '/image/item-7.jpeg';
 import image8 from '/image/item-8.jpeg';
 import image9 from '/image/item-9.jpeg';
 
+
 export const pageLinks = [
     { id:1, href: '/', text: 'Home' },
     { id:2, href: '#section2', text: 'About' },
@@ -114,5 +115,6 @@ const menu = [
       img: image9,
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+
   ];
   export default menu;
