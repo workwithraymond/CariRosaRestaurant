@@ -1,12 +1,12 @@
-import image1 from '../public/image/item-1.jpeg';
-import image2 from '../public/image/item-2.jpeg';
-import image3 from '../public/image/item-3.jpeg';
-import image4 from '../public/image/item-4.jpeg';
-import image5 from '../public/image/item-5.jpeg';
-import image6 from '../public/image/item-6.jpeg';
-import image7 from '../public/image/item-7.jpeg';
-import image8 from '../public/image/item-8.jpeg';
-import image9 from '../public/image/item-9.jpeg';
+import image1 from '/image/item-1.jpeg';
+import image2 from '/image/item-2.jpeg';
+import image3 from '/image/item-3.jpeg';
+import image4 from '/image/item-4.jpeg';
+import image5 from '/image/item-5.jpeg';
+import image6 from '/image/item-6.jpeg';
+import image7 from '/image/item-7.jpeg';
+import image8 from '/image/item-8.jpeg';
+import image9 from '/image/item-9.jpeg';
 
 export const pageLinks = [
     { id:1, href: '/', text: 'Home' },
