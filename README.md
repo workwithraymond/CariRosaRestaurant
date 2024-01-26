@@ -13,3 +13,5 @@ https://github.com/facebook/react/issues/22656
 --Working on the menu button clicks functionality.
 
 # Updating the menu component functionality and will be adding more images.
+
+# Completed the Menu section.  Now going to work on other areas of the site.
