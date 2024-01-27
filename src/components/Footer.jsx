@@ -26,7 +26,7 @@ const Footer = () => {
             Correo:
             <a>info@yoursite.com</a>
           </p>
-          <p><FaPhone />
+          <p><FaPhone className="phone-icon"/>
             Telefono:
             <a>+1(809)724-9580</a>
           </p>
