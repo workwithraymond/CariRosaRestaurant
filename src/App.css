@@ -102,6 +102,8 @@ h4 {
 }
 
 p {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
   margin-bottom: 1.25rem;
   color: hsl(210, 22%, 49%);
 }
@@ -169,6 +171,9 @@ p {
   display: grid;
   gap: 1rem 2rem;
   max-width: 25rem;
+  border-radius: 10px;
+  border: 4px solid red;
+  padding: 10px;
 }
 
 .photo {
@@ -243,7 +248,7 @@ p {
 }
 
 .item-text {
-  line-height: 2;
+  line-height: 3;
   color: var(--grey-500);
 }
 
@@ -278,4 +283,44 @@ p {
   align-items: center;
   justify-content: center;
   min-height: 100vh; /* Optional: adjust the min-height based on your design */
+}
+
+/*Adding Map*/
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }

@@ -1067,9 +1067,9 @@ footer {
   flex-direction: row;
   justify-content: space-between; */
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   border-bottom: 1px solid gray;
-  padding-bottom: 1rem;
+  padding-bottom: 2rem;
 }
 
 
@@ -1165,7 +1165,7 @@ ul li a {
 
 .footer2-wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-top: .5rem;
 }
@@ -1244,5 +1244,7 @@ ul li a {
     margin-bottom: 1em;
   }
 }
+
+
 
 /* end of footer*/

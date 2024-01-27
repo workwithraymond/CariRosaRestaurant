@@ -4,9 +4,11 @@ import image3 from '/image/item-3.jpeg';
 import image4 from '/image/item-4.jpeg';
 import image5 from '/image/item-5.jpeg';
 import image6 from '/image/item-6.jpeg';
-import image7 from '/image/item-7.jpeg';
+import image7 from '/image/item-7.jpg';
 import image8 from '/image/item-8.jpeg';
 import image9 from '/image/item-9.jpeg';
+import image10 from '/image/item-11.jpeg';
+import image11 from '/image/item-12.jpg';
 
 
 export const pageLinks = [
@@ -43,14 +45,14 @@ export const reviewsData = [
 ];
 
 const menu = [
-    {
-      id: 1,
-      title: 'buttermilk pancakes',
-      category: 'breakfast',
-      price: 15.99,
-      img: image1,
-      desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-    },
+  {
+    id: 1,
+    title: 'Mangoo',
+    category: 'desayuno',
+    price: 3.99,
+    img: image10,
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+  },
     {
       id: 2,
       title: 'diner double',
@@ -67,14 +69,15 @@ const menu = [
       img: image3,
       desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
     },
-    {
-      id: 4,
-      title: 'country delight',
-      category: 'breakfast',
-      price: 20.99,
-      img: image4,
-      desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
-    },
+    
+      {
+        id: 4,
+        title: 'Revoltillo de Huevos con Tomates',
+        category: 'desayuno',
+        price: 3.99,
+        img: image11,
+        desc: `Revoltillo de Huevos con Tomates`,
+      },
     {
       id: 5,
       title: 'egg attack',
@@ -93,8 +96,8 @@ const menu = [
     },
     {
       id: 7,
-      title: 'bacon overflow',
-      category: 'breakfast',
+      title: 'riki taki',
+      category: 'desayuno',
       price: 8.99,
       img: image7,
       desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
@@ -115,6 +118,8 @@ const menu = [
       img: image9,
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+
+
 
   ];
   export default menu;

@@ -15,3 +15,7 @@ https://github.com/facebook/react/issues/22656
 # Updating the menu component functionality and will be adding more images.
 
 # Completed the Menu section.  Now going to work on other areas of the site.
+
+# Finish working on the Menu. 
+
+# Added Map on the contact component.

@@ -1,3 +1,4 @@
+import { FaPhone } from "react-icons/fa6";
 const Footer = () => {
 
   const myStyle = { color: 'orange' };
@@ -25,19 +26,13 @@ const Footer = () => {
             Correo:
             <a>info@yoursite.com</a>
           </p>
-          <p>
+          <p><FaPhone />
             Telefono:
             <a>+1(809)724-9580</a>
           </p>
         </div>
         <div className="footer-section">
-          <h1 className="heading">Subscribe Newsletter</h1>
-          <form id="second-form" action="">
-            <div id="second-form-input-wrapper">
-              <input id="second-form-input" type="text" placeholder="Email Address" aria-label="input" />
-              <i id="send-search" className="fa-solid fa-paper-plane" style={myStyle}></i>
-            </div>
-          </form>
+          
         </div>
       </div>
       <div className="footer2-wrapper">
@@ -46,14 +41,7 @@ const Footer = () => {
           
           </p>
         </div>
-        <div>
-          <ul className="social-media">
-            <li className="sm-active" id="facebook-icon"><a href="SOCIAL_MEDIA_LINK"><i className="fa-brands fa-facebook-f"></i></a></li>
-            <li id="twitter-icon"><a href="SOCIAL_MEDIA_LINK"><i className="fa-brands fa-twitter"></i></a></li>
-            <li id="linkedin-icon"><a href="SOCIAL_MEDIA_LINK"><i className="fa-brands fa-linkedin-in"></i></a></li>
-            <li id="instagram-icon"><a href="SOCIAL_MEDIA_LINK"><i className="fa-brands fa-instagram"></i></a></li>
-          </ul>
-        </div>
+       
       </div>
     </footer>
   
