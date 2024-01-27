@@ -56,7 +56,7 @@ const menu = [
     {
       id: 2,
       title: 'diner double',
-      category: 'lunch',
+      category: 'almuerzo',
       price: 13.99,
       img: image2,
       desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
@@ -64,7 +64,7 @@ const menu = [
     {
       id: 3,
       title: 'godzilla milkshake',
-      category: 'shakes',
+      category: 'bebidas',
       price: 6.99,
       img: image3,
       desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
@@ -81,7 +81,7 @@ const menu = [
     {
       id: 5,
       title: 'egg attack',
-      category: 'lunch',
+      category: 'almuerzo',
       price: 22.99,
       img: image5,
       desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
@@ -89,7 +89,7 @@ const menu = [
     {
       id: 6,
       title: 'oreo dream',
-      category: 'shakes',
+      category: 'bebidas',
       price: 18.99,
       img: image6,
       desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
@@ -97,7 +97,7 @@ const menu = [
     {
       id: 7,
       title: 'riki taki',
-      category: 'desayuno',
+      category: 'almuerzo',
       price: 8.99,
       img: image7,
       desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
@@ -105,7 +105,7 @@ const menu = [
     {
       id: 8,
       title: 'american classic',
-      category: 'lunch',
+      category: 'almuerzo',
       price: 12.99,
       img: image8,
       desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
@@ -113,7 +113,7 @@ const menu = [
     {
       id: 9,
       title: 'quarantine buddy',
-      category: 'shakes',
+      category: 'bebidas',
       price: 16.99,
       img: image9,
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,

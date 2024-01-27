@@ -19,3 +19,7 @@ https://github.com/facebook/react/issues/22656
 # Finish working on the Menu. 
 
 # Added Map on the contact component.
+
+
+# How to implement Order Now 
+#  

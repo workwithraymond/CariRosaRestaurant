@@ -11,7 +11,7 @@ const Footer = () => {
           <p>Comida </p>
         </div>
         <div className="footer-section">
-          <h1 className="heading">Open Hours</h1>
+          <h1 className="heading">Hora abierto</h1>
           <p>Mon-Fri: 9 AM - 6 PM</p>
           <p>Saturday: 9 AM - 4 PM</p>
           <p>Sunday: Closed</p>

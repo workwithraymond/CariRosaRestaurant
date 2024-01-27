@@ -11,7 +11,7 @@ const ContactPage = () => {
         <section id="section4-top-half">
           <section id="section4-top-half-oneThirds-book-section">
             <span>
-              Book Table
+            Reserva
             </span>
             <h1 id="opening-times" className="heading">Horario de apertura</h1>
           </section>
@@ -26,7 +26,7 @@ const ContactPage = () => {
           <section id="section4-top-half-threeThirds-times-section">
             <div name="left-times">
               <div>
-                Monday to Tuesday
+                Lunes a Jueves
               </div>
               <div className="times-display">
                 09:00 am - 22:00 pm
@@ -34,7 +34,7 @@ const ContactPage = () => {
             </div>
             <div name="right-times">
               <div>
-                Friday to Sunday
+                Vierne a Sabado
               </div>
               <div className="times-display">
                 11:00 am - 20:00 pm

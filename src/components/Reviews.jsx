@@ -58,8 +58,8 @@ export default function Reviews() {
       {/* Your existing JSX for review content */}
       <section id="section5">
         <section id="section5-text-container">
-        <span className="page-span">Testimonials</span>
-      <h1 className="heading">Customers Say</h1>
+        <span className="page-span">Testimonios</span>
+      <h1 className="heading">Cliente Dicen</h1>
           <section id="avatar-name-container">
             <div className="avatar"></div>
             <p className="name">{currentReview.name}</p>

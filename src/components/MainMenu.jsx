@@ -4,7 +4,7 @@ import menu from '../data';
 import Menu from './Menus';
 import Categories from './Categories';
 
-const allCategories = ['all', ...new Set(menu.map((item) => item.category))];
+const allCategories = ['todo', ...new Set(menu.map((item) => item.category))];
 
 
 const MainMenu = () => {
@@ -12,7 +12,7 @@ const MainMenu = () => {
     const [categories, setCategories] = useState(allCategories)
 
     const filterItems = (category) => {
-      if(category === 'all'){
+      if(category === 'todo'){
         setMenuItems(menu)
         return;
       }
