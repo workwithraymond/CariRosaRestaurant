@@ -1261,9 +1261,10 @@ ul li a {
   text-align: left;
   color: #df1850;
   letter-spacing: .1em;
-  position: absolute;
+  position: fixed;
   top: 100px;
   left: 10rem;
+  
 }
 
 #welcome-text-container > .heading1 {
@@ -1271,5 +1272,5 @@ ul li a {
   margin: 0;
   padding: 0;
   color:#a10a49;
-  
+
 }
