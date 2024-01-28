@@ -8,7 +8,7 @@ const Home = () => {
 
 <section id="section1">
     <section className="inner-container">
-      <section id="welcome-text-container">
+      <section id="welcome-text-container1">
         <h1 className="heading1">
           Bienvenido<br/>RosiCar<br/>Restaurante
         </h1>

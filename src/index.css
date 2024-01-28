@@ -226,12 +226,7 @@ body,html {
   justify-content: center;
 }
 
-#welcome-text-container > .heading {
-  font-size: var(--heading-size-large);
-  margin: 0;
-  padding: 0;
-  color:#0F0D25;
-}
+
 
 #first-form {
   width: 46vw;
@@ -1261,13 +1256,15 @@ ul li a {
   text-align: left;
   color: #df1850;
   letter-spacing: .1em;
-  position: fixed;
+  
   top: 100px;
   left: 10rem;
+  width: 100%;
+  
   
 }
 
-#welcome-text-container > .heading1 {
+#welcome-text-container1 > .heading1 {
   font-size: var(--heading-size-large);
   margin: 0;
   padding: 0;
