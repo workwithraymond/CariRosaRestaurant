@@ -1,11 +1,11 @@
 import image1 from '/image/item-1.jpeg';
-import image2 from '/image/item-2.jpeg';
+import image2 from '/image/item-2.jpg';
 import image3 from '/image/item-3.jpeg';
 import image4 from '/image/item-4.jpeg';
-import image5 from '/image/item-5.jpeg';
+import image5 from '/image/item-5.jpg';
 import image6 from '/image/item-6.jpeg';
 import image7 from '/image/item-7.jpg';
-import image8 from '/image/item-8.jpeg';
+import image8 from '/image/item-8.jpg';
 import image9 from '/image/item-9.jpeg';
 import image10 from '/image/item-11.jpeg';
 import image11 from '/image/item-12.jpg';
@@ -55,7 +55,7 @@ const menu = [
   },
     {
       id: 2,
-      title: 'diner double',
+      title: 'Sopa de Camarones',
       category: 'almuerzo',
       price: 13.99,
       img: image2,
@@ -80,7 +80,7 @@ const menu = [
       },
     {
       id: 5,
-      title: 'egg attack',
+      title: 'Moro y bistec encebollado',
       category: 'almuerzo',
       price: 22.99,
       img: image5,
@@ -97,14 +97,14 @@ const menu = [
     {
       id: 7,
       title: 'riki taki',
-      category: 'almuerzo',
+      category: 'desayuno',
       price: 8.99,
       img: image7,
       desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
     },
     {
       id: 8,
-      title: 'american classic',
+      title: 'Sancocho Dominicano',
       category: 'almuerzo',
       price: 12.99,
       img: image8,
@@ -120,6 +120,25 @@ const menu = [
     },
 
 
-
   ];
   export default menu;
+
+ export const sliderImage = [
+    {
+      id: 1,
+      img: image2, 
+    },
+    {
+      id: 2,
+      img: image7,
+    },
+    {
+      id: 3,
+      img: image10,
+    },
+    {
+      id: 3,
+      img: image11,
+    }
+    
+  ];
