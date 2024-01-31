@@ -5,17 +5,18 @@ const About = () => {
     <section className="inner-container">
       <section id="section2-shift">
         <section id="section2-text-container">
-          <span className="page-span">About Us</span>
+          
           <h1 className="heading">
-            Discover Our
+          Descubre La Historia 
             <br/>
-            Restaurant Story
+            De Nuestro Restaurante
           </h1>
           <p>
-          Our mission is to transport our guests to the island of hospitality and share the culinary richness of the Dominican Republic. We take pride in offering authentic dishes prepared with fresh, high-quality ingredients.
+          Nuestra misión es transportar a nuestros huéspedes a la isla de la hospitalidad y compartir la riqueza culinaria de la República Dominicana. Nos enorgullece ofrecer platos auténticos preparados con ingredientes frescos y de alta calidad.
           </p>
           <p>
-          We are committed to providing friendly and welcoming service in a vibrant and energetic atmosphere. We strive to exceed our customers' expectations on every visit by offering an authentic and memorable experience of Dominican cuisine and culture. Our restaurant is a place where the joy of life, food, and friendship is celebrated.
+          Nos comprometemos a brindar un servicio amigable y acogedor en un ambiente vibrante y lleno de energía. Nos esforzamos por superar las expectativas de nuestros clientes en cada visita al ofrecer una experiencia auténtica e inolvidable de la cultura y la cocina dominicanas. Nuestro restaurante es un lugar donde se celebra la alegría de la vida, la comida y la amistad.
+          Espero que esto sea útil! Háganme saber si tienen alguna otra pregunta.
           </p>
           <a href="#section3" id="section3-btn-link">
             <button type="button" id="discover-menu-btn">

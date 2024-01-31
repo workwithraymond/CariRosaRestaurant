@@ -221,7 +221,7 @@ body,html {
   margin: 0 5rem;
   width: 100%;
   min-height: 100vh;
-  display: flex;
+  
   flex-direction: column;
   justify-content: center;
 }
@@ -1268,6 +1268,6 @@ ul li a {
   font-size: var(--heading-size-large);
   margin: 0;
   padding: 0;
-  color:#a10a49;
+  color:#2d09cf;
 
 }

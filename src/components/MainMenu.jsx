@@ -24,7 +24,7 @@ const MainMenu = () => {
   return (
     <main className='center-container'>
   <Categories categories={categories} filterItems={filterItems}/>
-      <span className="page-span">Orden linea Ahora</span>
+      
    <h1 className="heading">Nuestra Cocina De Especialidad</h1>
   <Menu items ={menuItems} />
 

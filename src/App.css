@@ -222,6 +222,7 @@ p {
 }
 .menu-item .img {
   height: 15rem;
+  padding: 1rem;
   border-top-right-radius: var(--borderRadius);
   border-top-left-radius: var(--borderRadius);
 }

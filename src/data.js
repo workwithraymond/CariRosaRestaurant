@@ -1,18 +1,18 @@
 import image1 from '/image/item-1.jpeg';
 import image2 from '/image/item-2.jpg';
-import image3 from '/image/item-3.jpeg';
+import image3 from '/image/item-3.jpg';
 import image4 from '/image/item-4.jpeg';
 import image5 from '/image/item-5.jpg';
-import image6 from '/image/item-6.jpeg';
+import image6 from '/image/item-6.jpg';
 import image7 from '/image/item-7.jpg';
 import image8 from '/image/item-8.jpg';
-import image9 from '/image/item-9.jpeg';
+import image9 from '/image/item-9.jpg';
 import image10 from '/image/item-11.jpeg';
 import image11 from '/image/item-12.jpg';
 
 
 export const pageLinks = [
-    { id:1, href: '/', text: 'Home' },
+    { id:1, href: '/', text: 'Bienvenidos' },
     { id:2, href: '#section2', text: 'About' },
     { id:3, href: '#section3', text: 'Menu' },
     { id:4, href: '#section4', text: 'Order Now' },
@@ -63,7 +63,7 @@ const menu = [
     },
     {
       id: 3,
-      title: 'godzilla milkshake',
+      title: 'Morir Soñando',
       category: 'bebidas',
       price: 6.99,
       img: image3,
@@ -88,11 +88,11 @@ const menu = [
     },
     {
       id: 6,
-      title: 'oreo dream',
+      title: 'jugo de tamarindo',
       category: 'bebidas',
       price: 18.99,
       img: image6,
-      desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+      desc: `Portland chicharrones ethical edison bulb`,
     },
     {
       id: 7,
@@ -112,7 +112,7 @@ const menu = [
     },
     {
       id: 9,
-      title: 'quarantine buddy',
+      title: 'Jugo de Chinola',
       category: 'bebidas',
       price: 16.99,
       img: image9,
