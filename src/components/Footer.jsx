@@ -17,7 +17,7 @@ const Footer = () => {
           <p>Sunday: Closed</p>
         </div>
         <div className="footer-section">
-          <h1 className="heading">Contact Us</h1>
+          <h1 className="heading">Contacto</h1>
           <p>Calle E. Leon Jimenez #6, 
              Junta de los Dos Caminos 
              
