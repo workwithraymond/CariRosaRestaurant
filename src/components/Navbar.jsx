@@ -3,6 +3,7 @@ import PageLinks from './PageLinks';
 
 
 
+
 const Navbar = () => {
     return (
     
@@ -24,5 +25,6 @@ const Navbar = () => {
         </ul>
       </nav>
       )
+
 };
 export default Navbar;
