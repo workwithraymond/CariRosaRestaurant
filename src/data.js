@@ -13,7 +13,7 @@ import image11 from '/image/item-12.jpg';
 
 export const pageLinks = [
     { id:1, href: '/', text: 'inicio' },
-    { id:2, href: '#section2', text: 'About' },
+    { id:2, href: '#section2', text: 'Nosotros' },
     { id:3, href: '#section3', text: 'Menu' },
     { id:4, href: '#section4', text: 'Contacto' },
 
