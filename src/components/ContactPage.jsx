@@ -17,7 +17,7 @@ const ContactPage = () => {
           </section>
           <section id="section4-top-half-twoThirds-phone-section">
             <div id="phone-container">
-              <i className="fa-solid fa-phone fa-2x" style={myStyle}></i>
+            <img src="./image/logo.jpg" alt="Restaurant Logo" className="nav-logo" />
             </div>
             <span id="phone-call">Llame Ahora</span>
             <h3 id="phone-number">347-730-1572</h3>
