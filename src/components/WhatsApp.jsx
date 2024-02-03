@@ -8,12 +8,15 @@ const openWhatsAppChat = () => {
 }
   return (
 
-        <button type="button" id="whatsapp-menu-btn" onClick={openWhatsAppChat}>
-              <span id="whatsapp-menu-btn-text">
-               WhatsApp
-              </span>
-              
-        </button>
+    <a
+    href="https://wa.me/3477301572"
+    class="whatsapp_float"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <i class="fa fa-whatsapp whatsapp-icon"></i>
+  </a>
+        
   )
    
 }
