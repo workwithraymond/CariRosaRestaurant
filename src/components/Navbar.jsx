@@ -9,7 +9,7 @@ const Navbar = () => {
     
         <nav className="navbar">
           <img src="./image/logo.jpg" alt="Restaurant Logo" className="nav-logo" />
-         
+ 
         <div className="hamburger-menu">
        
           <div></div>
