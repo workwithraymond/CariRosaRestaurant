@@ -1298,11 +1298,14 @@ ul li a {
 /*New CSS for WhatsApp*/
 
 /* for desktop */
+
+
+
 .whatsapp_float {
   position: fixed;
   width: 60px;
   height: 60px;
-  bottom: 40px;
+  top: 8px;
   right: 40px;
   background-color: #25d366;
   color: #FFF;
@@ -1315,6 +1318,7 @@ ul li a {
 
 .whatsapp-icon {
   margin-top: 16px;
+ 
 }
 
 /* for mobile */
