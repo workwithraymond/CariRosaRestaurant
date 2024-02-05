@@ -21,7 +21,7 @@ const About = () => {
           <a href="#section3" id="section3-btn-link">
             <button type="button" id="discover-menu-btn">
               <span id="discover-menu-btn-text">
-                Discover Menu
+                Discubra Menu
               </span>
               <span id="inner-btn" aria-label="inner-btn-forwards">
                 <i className="fa-sharp fa-solid fa-arrow-right"></i>
