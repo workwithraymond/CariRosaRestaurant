@@ -16,14 +16,15 @@ const Navbar = () => {
           <div></div>
           <div></div>
           <div></div>
+       
         </div>
-        
         <PageLinks parentClass='nav-links' itemClass='nav-link'/>
         <ul id="nav-links" className="nav-links">
-       
+        
           <WhatsApp />      
           
         </ul>
+        
       </nav>
       )
 

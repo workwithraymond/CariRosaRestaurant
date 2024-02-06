@@ -1338,8 +1338,8 @@ ul li a {
 @media screen and (max-width: 400px){
   
   .whatsapp_float {
-      width: 40px;
-      height: 40px;
+      width: 20px;
+      height: 30px;
       bottom: 20px;
       right: 10px;
       font-size: 22px;
