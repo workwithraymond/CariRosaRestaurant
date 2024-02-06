@@ -20,6 +20,11 @@ https://github.com/facebook/react/issues/22656
 
 # Added Map on the contact component.
 
+# Added WhatsApp App 
+
+# I have to fix the hamburger menu
+
+
 
 # How to implement Order Now 
 #  https://www.youtube.com/watch?v=B3nl1840Do4
