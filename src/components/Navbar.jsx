@@ -1,5 +1,6 @@
 import WhatsApp from './WhatsApp';
 import PageLinks from './PageLinks';
+import NewMenu from './NewMenu';
 
 
 
@@ -11,13 +12,13 @@ const Navbar = () => {
         <nav className="navbar">
           <img src="./image/logo.jpg" alt="Restaurant Logo" className="nav-logo" />
  
-        <div className="hamburger-menu">
-       
+        
+        <NewMenu/>
           <div></div>
           <div></div>
           <div></div>
        
-        </div>
+        
         <PageLinks parentClass='nav-links' itemClass='nav-link'/>
         <ul id="nav-links" className="nav-links">
         
