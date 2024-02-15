@@ -118,6 +118,14 @@ const menu = [
       img: image9,
       desc: `muy buena comida fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+    {
+      id: 10,
+      title: 'Jugo de Chinola',
+      category: 'bebidas',
+      price: 16.99,
+      img: image10,
+      desc: `muy buena comida fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
 
 
   ];
