@@ -2,10 +2,8 @@ import WhatsApp from './WhatsApp';
 import PageLinks from './PageLinks';
 
 
-
-
-
 const Navbar = () => {
+
     return (
     
         <nav className="navbar">
@@ -13,9 +11,10 @@ const Navbar = () => {
  
         <div className="hamburger-menu">
        
-          <div></div>
-          <div></div>
-          <div></div>
+          <div className= 'burger burger1'></div>
+          <div className='burger burger2'></div>
+          <div className='burger burger3'></div>
+          <div className='burger burger4'></div>
         </div>
         
         <PageLinks parentClass='nav-links' itemClass='nav-link'/>

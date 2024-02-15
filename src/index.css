@@ -101,7 +101,7 @@ body,html {
 }
 
 
-.hamburger-menu {
+/*.hamburger-menu {
   display: none;
   flex-direction: column;
   justify-content: space-around;
@@ -117,7 +117,7 @@ body,html {
   height: .25rem;
   list-style: none;
   background-color: black;
-}
+}*/
 
 .nav-links {
   display: flex;
@@ -1335,3 +1335,34 @@ ul li a {
       font-size: 22px;
   }
 }
+
+/*Hamburger Menu */
+
+.hamburger-menu{
+  width: 2rem;
+  height: 2rem;
+  display: none;
+  justify-content: space-around;
+  flex-flow: column nowrap;
+  z-index: 10;
+}
+
+.burger {
+  width: 2rem;
+  height: 0.25rem;
+  border-radius: 10px;
+  background-color: black;
+  transform-origin: 1px;
+  transition: all 0.3s linear;
+}
+
+@media (max-width: 767px) {
+
+    .hamburger{
+      display: fixed;
+      padding-top: 10px;
+      margin-left: 10px;
+      z-index: 10;
+    }
+}
+  
