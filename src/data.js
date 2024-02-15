@@ -116,7 +116,7 @@ const menu = [
       category: 'bebidas',
       price: 16.99,
       img: image9,
-      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+      desc: `muy bueno fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
 
 
