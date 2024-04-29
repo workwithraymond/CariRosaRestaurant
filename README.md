@@ -30,3 +30,5 @@ https://github.com/facebook/react/issues/22656
 #  https://www.youtube.com/watch?v=B3nl1840Do4 
 
 # Wen working on the hamburger menu make sure to look at the video on React from John Smigla number 677
+
+https://www.youtube.com/watch?v=1bJ_LkCJVP8
